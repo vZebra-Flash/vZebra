@@ -4,8 +4,7 @@ Professional Video Color Pipeline for Short Filmmakers
 
 ## What It Does
 
-vZebra applies a precise, mathematical ACES-based cinematic finish to your 
-finished short film — in one click.
+vZebra let your movie cinematic finish itself, short film — in one click.
 
 - No LUTs
 - No presets
@@ -25,9 +24,6 @@ finished short film — in one click.
 - Windows 10 or later (64-bit)
 - 4 GB RAM minimum, 8 GB recommended
 
-## Download
-
-Coming soon.
 
 ## Pricing
 
@@ -35,4 +31,4 @@ $39 one-time. Lifetime license. One machine.
 
 ## Contact
 
-For support, contact via LemonSqueezy.
+For support, contact via Gumroad.
