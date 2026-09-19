@@ -13,7 +13,6 @@ vZebra let your movie cinematic finish itself, short film — in one click.
 
 ## Features
 
-- ACES-based Narkowicz tone mapping
 - Works with MP4, MKV, MOV, AVI, WebM
 - Output: MP4 (MPEG-4 Part 2 video, MP3 audio)
 - 7-day free trial
