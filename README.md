@@ -28,6 +28,3 @@ vZebra let your movie cinematic finish itself, short film — in one click.
 
 $39 one-time. Lifetime license. One machine.
 
-## Contact
-
-For support, contact via Gumroad.
