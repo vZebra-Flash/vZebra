@@ -22,8 +22,8 @@ vZebra let your movie cinematic finish itself, short film — in one click.
 
 - Windows 10 or later (64-bit)
 - 4 GB RAM minimum, 8 GB recommended
--VLC for smooth playback on PC
--Works Perfect for Youtube
+- VLC for smooth playback on PC
+- Works Perfect for Youtube
 
 ## Pricing
 
