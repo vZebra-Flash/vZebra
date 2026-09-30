@@ -1,5 +1,5 @@
 ════════════════════════════════════════════════════════
-      vZebra — Mastering Software for Short Filmmakers
+vZebra — Mastering Software for Short Filmmakers
 Give your short film the master it deserves.
 ════════════════════════════════════════════════════════
 
