@@ -1,4 +1,4 @@
-
+════════════════════════════════════════════════════════
 vZebra — Mastering Software for Short Filmmakers
 Give your short film the master it deserves.
 ════════════════════════════════════════════════════════
@@ -7,8 +7,8 @@ Give your short film the master it deserves.
 WHAT IT DOES
 ────────────
 
-vZebra delivers a cinematic, natural, mathematically
-lossless master file — in one click.
+vZebra delivers a cinematic, mathematically lossless
+master file — in one click.
 
 No LUTs. No presets. No creative filters. No subjective
 settings. No AI.
@@ -100,7 +100,7 @@ SYSTEM REQUIREMENTS
 • 8 GB RAM minimum (16 GB recommended)
 • 25 GB free disk space minimum
 • Internet connection (for first activation only)
-• ~250 MB free space for the app itself
+• ~700 MB free space for the app itself
 
 
 HOW IT WORKS
@@ -126,6 +126,17 @@ Home Cinema):
 
 MPC-HC plays FFV1 + FLAC perfectly. Most basic players
 (Windows Films & TV, QuickTime) may not support FFV1.
+
+
+OPTIONAL CREDIT
+───────────────
+
+If you wish to credit vZebra in your film's end credits,
+you may use the following line:
+
+  "Mastered with vZebra"
+
+This is entirely optional. No attribution is required.
 
 
 FREE TRIAL
