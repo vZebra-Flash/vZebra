@@ -40,8 +40,7 @@ WHAT YOU GET
   quality loss
 • 16-bit color depth — no banding, no artifacts
 • 4:4:4 chroma — full color, no subsampling
-• Color gamut preserved from source — BT.709 stays BT.709,
-  BT.2020 SDR stays BT.2020 SDR (no forced conversion)
+• BT.2020 SDR gamut — widest possible SDR color space
 • ACES Narkowicz tone mapping — cinematic, published,
   objective
 • MKV container — chapters, metadata, and attachments
@@ -70,7 +69,7 @@ TECHNICAL DETAILS
 • Container: MKV (Matroska, open standard)
 • Bit depth: 16-bit (always — regardless of source)
 • Chroma: 4:4:4 (full chroma, no subsampling)
-• Color gamut: preserved from source (BT.709 or BT.2020 SDR)
+• Color gamut: BT.2020 SDR (wide gamut)
 • Color range: preserved from source (limited or full)
 • Color pipeline: ACES-based Narkowicz tone mapping
 • Encoding: CPU-based, no GPU required
@@ -126,6 +125,24 @@ Home Cinema):
 
 MPC-HC plays FFV1 + FLAC perfectly. Most basic players
 (Windows Films & TV, QuickTime) may not support FFV1.
+
+COLOR MANAGEMENT:
+─────────────────
+
+vZebra masters are encoded in BT.2020 SDR (wide gamut).
+
+Some players and editors do not correctly detect BT.2020 SDR
+and may display colors incorrectly. If colors look wrong:
+
+• Use MPC-HC for correct playback (recommended)
+• In HandBrake: manually set output colorspace to BT.709
+  when compressing for delivery
+• In DaVinci Resolve / Premiere Pro: manually set input
+  colorspace to BT.2020 SDR in project settings
+• In VLC / KMPlayer: colors may be inaccurate
+
+The master is correct. Any color shift is that tool's
+limitation, not of vZebra.
 
 
 OPTIONAL CREDIT
